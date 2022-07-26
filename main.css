@@ -52,25 +52,11 @@ p {
     align-items: flex-start;
     justify-content: space-between;
 }
-.section-2 {
+.section {
     display: flex;
     align-items: flex-start;
 }
 
-.section-3 {
-    display: flex;
-    align-items: flex-start; 
-}
-
-.section-4 {
-    display: flex;
-    align-items: flex-start; 
-}
-
-.section-5 {
-    display: flex;
-    align-items: flex-start; 
-}
 
 .box-1 { width: 30%; }
 .box-2 { width: 70%; }
